@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Unidad I</string>
+    <string name="type_name">Type your name</string>
+    <string name="type_age">Type your age</string>
+    <string name="type_phone">Type your phone</string>
+    <string name="submit_info">Submit</string>
+
+    <string name="string_7">7</string>
+    <string name="string_8">8</string>
+    <string name="string_9">9</string>
+    <string name="string_6">6</string>
+    <string name="string_5">5</string>
+    <string name="string_4">4</string>
+    <string name="string_3">3</string>
+    <string name="string_2">2</string>
+    <string name="string_1">1</string>
+    <string name="string_0">0</string>
+    <string name="string_x">x</string>
+    <string name="string_men">-</string>
+    <string name="string_mas">+</string>
+    <string name="string_div">/</string>
+    <string name="string_point">.</string>
+    <string name="string_result1">=</string>
+    <string name="submit">SUBMIT</string>
+    <string name="exit">exit</string>
+
+</resources>

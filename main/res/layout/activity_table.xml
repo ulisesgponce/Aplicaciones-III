@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+
+        <ImageView
+            android:layout_width="@dimen/img"
+            android:layout_height="wrap_content"
+            android:id="@+id/start_cal"
+            android:src="@drawable/calculator"
+            android:onClick="nextActivity"/>
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:layout_width="@dimen/img"
+            android:layout_height="wrap_content"
+            android:id="@+id/start_form"
+            android:src="@drawable/form"
+            android:onClick="nextActivity1"
+            />
+
+    </TableRow>
+
+</TableLayout>
